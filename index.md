@@ -1,3 +1,3 @@
-# DAW CIDEAD 2020 - Diario de trabajo
+# Diario de trabajo
 
 Empezamos el 23 ...
